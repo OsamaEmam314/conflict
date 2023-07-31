@@ -7,7 +7,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        var name ="osama"
-        val course ="android"
+        val  name  = "emam"
+        val course = "Flutter"
+        var duration = 120
+
     }
 }
