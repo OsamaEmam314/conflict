@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val  name  = "emam"
         val course = "Flutter"
-        var duration = 120
+        var duration = 60
 
     }
 }
